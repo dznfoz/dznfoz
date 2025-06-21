@@ -57,7 +57,6 @@ Sinto-me cada vez mais motivado a continuar explorando o universo da tecnologia 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dznfoz&theme=dracula&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=dznfoz&theme=dracula&show_icons=true&hide_border=true&count_private=true" 
   />
-
 </p>
