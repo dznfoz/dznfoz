@@ -4,8 +4,7 @@
 
 Olá, me chamo Victor Emanuel! Sou natural de Jacareí, São Paulo, mas aos 12 anos me mudei para o Ceará. Atualmente, sou estudante de uma Escola de Ensino Médio Profissionalizante, a EEEP Manoel Mano, onde estou cursando o técnico em Informática.
 
-Tenho o sonho de ingressar no curso de Sistemas de Informação na UFC (Universidade Federal do Ceará). Durante o curso técnico, tive a oportunidade de aprender diversas habilidades valiosas, como lógica de programação, programação orientada a objetos (POO), banco de dados, desenvolvimento web, UX/UI, entre outros. Além disso, já desenvolvi projetos incríveis dentro dessa área, aplicando na prática o que aprendi.
-
+Tenho o sonho de ingressar no curso de Sistemas de Informação na UFC (Universidade Federal do Ceará). Durante o curso técnico, tive a oportunidade de aprender diversas habilidades valiosas, como lógica de programação, programação orientada a objetos (POO), banco de dados, desenvolvimento web entre outros. 
 Sinto-me cada vez mais motivado a continuar explorando o universo da tecnologia e construir uma carreira sólida nesse campo! 🚀
 
 
