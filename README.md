@@ -56,8 +56,8 @@ Projeto Full Stack desenvolvido durante o curso técnico.
 - JavaScript
 - MySQL
 
-➡️ *(adicione aqui o link do repositório)*
 
+https://github.com/vit7zn/Projeto-Cadastro-e-Ranking-de-alunos-3-B
 ---
 
 # 📜 Certificados
@@ -66,7 +66,7 @@ Projeto Full Stack desenvolvido durante o curso técnico.
 
 ✅ AWS Academy Graduate – Cloud Foundations
 
-*(Em breve adicionarei mais certificações e projetos.)*
+
 
 ---
 
