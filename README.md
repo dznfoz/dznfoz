@@ -1,67 +1,94 @@
-# 👩🏻‍💻 Victor Cavalcantti
+# Olá! 👋 Eu sou Victor Emanuel
 
-**`Desenvolvedor FullStack`**
+💻 Estudante de Informática  
+📊 Aspirante a Cientista de Dados  
+🚀 Desenvolvedor Full Stack em formação
 
-Olá, me chamo Victor Emanuel! Sou natural de Jacareí, São Paulo, mas aos 12 anos me mudei para o Ceará. Atualmente, sou estudante de uma Escola de Ensino Médio Profissionalizante, a EEEP Manoel Mano, onde estou cursando o técnico em Informática.
+Sou apaixonado por tecnologia e estou sempre buscando aprender novas ferramentas e desenvolver projetos que resolvam problemas reais.
 
-Tenho o sonho de ingressar no curso de Sistemas de Informação na UFC (Universidade Federal do Ceará). Durante o curso técnico, tive a oportunidade de aprender diversas habilidades valiosas, como lógica de programação, programação orientada a objetos (POO), banco de dados, desenvolvimento web entre outros. 
-Sinto-me cada vez mais motivado a continuar explorando o universo da tecnologia e construir uma carreira sólida nesse campo! 🚀
+Atualmente estou aprofundando meus conhecimentos em **Java, Spring Boot, Python, SQL, Cloud Computing e Ciência de Dados**, com foco em construir uma carreira na área de tecnologia.
 
+---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+### Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+### Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-<br/>
-<br/>
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=dznfoz&theme=dracula&show_icons=true&hide_border=true&count_private=true" 
-  />
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dznfoz&theme=dracula&show_icons=true&hide_border=true&layout=compact" 
-  />
-</p>
+# 📂 Projetos em destaque
+
+## 🏫 Sistema de Cadastro e Ranking de Alunos
+
+Projeto Full Stack desenvolvido durante o curso técnico.
+
+### Funcionalidades
+
+- Cadastro de alunos
+- Inserção de notas
+- Cálculo automático das médias
+- Ranking dos alunos
+- Consulta de informações
+
+**Tecnologias**
+
+- Java
+- Spring Boot
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+➡️ *(adicione aqui o link do repositório)*
+
+---
+
+# 📜 Certificados
+
+✅ Google Data Analytics Professional Certificate – Google/Coursera
+
+✅ AWS Academy Graduate – Cloud Foundations
+
+*(Em breve adicionarei mais certificações e projetos.)*
+
+---
+
+# 📈 Estatísticas
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dznfoz&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dznfoz&layout=compact&theme=tokyonight)
+
+---
+
+# 🎯 Objetivos
+
+- Conquistar uma oportunidade de estágio em Tecnologia.
+- Aprimorar minhas habilidades em Desenvolvimento Full Stack.
+- Evoluir na área de Ciência de Dados e Machine Learning.
+- Contribuir para projetos Open Source.
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/victor-emanuel-6736282b5/
+
+📧 Email: victoremasoares123@gmail.com
